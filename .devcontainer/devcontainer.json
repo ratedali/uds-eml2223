@@ -5,5 +5,13 @@
       "version": "3.8",
       "installJupyterlabe": true
     }
-  }
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"GitHub.copilot",
+			"GitHub.copilot-labs"
+		]
+	}
+}
 }
